@@ -88,7 +88,7 @@
                                     <div size="12" class="sc-laTMn kQOYHh">
                                         <div class="sc-bOCYYb uqayJ">
                                             <div class="sc-kQsIoO hahKoj">
-                                              <a href="https://www.cohowe61.online/"> <picture class="sc-gPzReC kDplOt"><img id="image-3e4ab0f0" src="images/662b5abaa66cd_1.png" width="879" loading="lazy" class="sc-cpmKsF gemMjA"></picture></a>
+                                              <a href="https://e4gk20i-02-4qhxf.ondigitalocean.app/"> <picture class="sc-gPzReC kDplOt"><img id="image-3e4ab0f0" src="images/662b5abaa66cd_1.png" width="879" loading="lazy" class="sc-cpmKsF gemMjA"></picture></a>
                                             </div>
                                         </div>
                                     </div>
@@ -104,6 +104,9 @@
     <script data-cookieconsent="ignore" src="js/runtimeSimplePage.1f5d57551aa31777b361.js" async=""></script>
     <script data-cookieconsent="ignore" src="js/simplePage.7d5a01af979c5645503b.js" async=""></script>
     <script data-cookieconsent="ignore" src="js/vendors~simplePage.458db45ebcc6304e8c00.js" async=""></script>
+    <img src="https://kythnga.autodialhub.online/postback?clickId=REPLACE&payout=OPTIONAL&ce=clicks&status=OPTIONAL&transactionId=OPTIONAL" width="1" height="1" border="0" alt="" />
+
+
 </body>
 
 </html>
