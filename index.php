@@ -100,12 +100,12 @@
             </div>
         </div>
     </div>
+    <img src="https://kythnga.autodialhub.online/postback?clickId=REPLACE&payout=OPTIONAL&ce=clicks&status=OPTIONAL&transactionId=OPTIONAL" width="1" height="1" border="0" alt="" />
+
 
     <script data-cookieconsent="ignore" src="js/runtimeSimplePage.1f5d57551aa31777b361.js" async=""></script>
     <script data-cookieconsent="ignore" src="js/simplePage.7d5a01af979c5645503b.js" async=""></script>
     <script data-cookieconsent="ignore" src="js/vendors~simplePage.458db45ebcc6304e8c00.js" async=""></script>
-    <img src="https://kythnga.autodialhub.online/postback?clickId=REPLACE&payout=OPTIONAL&ce=clicks&status=OPTIONAL&transactionId=OPTIONAL" width="1" height="1" border="0" alt="" />
-
 
 </body>
 
